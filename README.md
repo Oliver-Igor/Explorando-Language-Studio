@@ -28,4 +28,10 @@ Análise de Sentimentos com Language Studio no Azure AI
 
 ## Exemplos
 
+<img src='./inputs/img/img 3.png' width='850'/>
+<img src='./inputs/img/img 4.png' width='850'/>
+<img src='./inputs/img/img 2.png' width='850'/>
+<img src='./inputs/img/img 5.png' width='850'/>
+<img src='./inputs/img/img 1.png' width='850'/>
+
 
